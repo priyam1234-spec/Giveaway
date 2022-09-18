@@ -7,7 +7,7 @@
 - [Youtube Channel](https://www.youtube.com/c/MrPriyam37Gaming)
 - [Support Server Link](https://discord.gg/ARu4hr6hJw)
 ## Licensed Under
-### Creative Commons Priyam v1.0 Universal
+### Creative Commons Zero v1.0 Universal
 [View the license here](https://github.com/priyam1234-spec/Giveaway/blob/master/LICENSE)
 #### Copyright 2021 © All Rights are Reserved 
 
